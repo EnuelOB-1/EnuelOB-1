@@ -24,7 +24,7 @@ I'm a Data Analyst based in Lagos, Nigeria.
 
 I use Python/R, machine learning, SQL, PowerBI, Tableau and other tools and techniques to solve real-world problems in every field of human endeavour Most especially Business Problems.
 
-<h1> technologies i use: <h1/>
+<h1> tools & technologies i use: <h1/>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy " alt="Numpy" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
@@ -42,7 +42,7 @@ I use Python/R, machine learning, SQL, PowerBI, Tableau and other tools and tech
 <h1> data don't lie! </h1>
 So, let you'r data tell you everything.
 
-Please, feel free to contact me, and I'd be glad to help you Unlock the Secrets in the Unique Story your data has to tell.
+Please, feel free to [reach out](https://url.com), and I'd be glad to help you Unlock the Secrets in the Unique Story your data has to tell.
 
 
 <!--
