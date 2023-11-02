@@ -21,11 +21,14 @@
 
 
 <h1> Hey there, 
+  &nbsp; 
+  I'm Emmanuel, a Data Analyst based in Nigeria.
+  &nbsp; 
+  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 # About me
-I'm Emmanuel, a Data Analyst based in Nigeria.
 I use SQL, Python, machine learning, PowerBI, Tableau and other tools and techniques to solve real-world problems in every field of human endeavour; most especially Business Problems.
 
 <h1> tools & technologies i use: <h1/>
