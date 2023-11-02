@@ -28,6 +28,8 @@
   
 # About me
 I use SQL, Python, machine learning, PowerBI, Tableau and other tools and techniques to solve real-world problems in every field of human endeavour; most especially Business Problems.
+&nbsp;  
+
 
 <h1> tools & technologies i use: <h1/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy " alt="Numpy" width="40" height="40"/>&nbsp;
@@ -40,12 +42,14 @@ I use SQL, Python, machine learning, PowerBI, Tableau and other tools and techni
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="Woocommerce" alt="Woocommerce" width="40" height="40"/>&nbsp;
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="Woocommerce" alt="Woocommerce" width="40" height="40"/>&nbsp;  
+&nbsp;  
+  
 <h1> data don't lie! </h1>
 So, let you'r data tell you everything.
 
-Please, feel free to [reach out](https://url.com), and I'd be glad to help you Unlock the Secrets in the Unique Story your data has to tell.
+Please, feel free to [reach out](https://url.com)💬, and collaborating with you to Unlock the Secrets in the Unique stroy your data has to tell would be a pleasure.
+
 
 
 <!--
