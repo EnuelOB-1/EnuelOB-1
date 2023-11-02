@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest     Badge"/>
   </a>
   
-  <a href="your-linkedin-URL">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/emmanuel-obi-81957773)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
@@ -20,13 +20,13 @@
 </div>
 
 
-<h1> hey there 
+<h1> Hi, I'm Emmanuel, a Data Analyst based in Nigeria.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I'm a Data Analyst based in Lagos, Nigeria.
+# About me
 
-I use Python/R, machine learning, SQL, PowerBI, Tableau and other tools and techniques to solve real-world problems in every field of human endeavour Most especially Business Problems.
+I use SQL, Python, machine learning, PowerBI, Tableau and other tools and techniques to solve real-world problems in every field of human endeavour; most especially Business Problems.
 
 <h1> tools & technologies i use: <h1/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy " alt="Numpy" width="40" height="40"/>&nbsp;
