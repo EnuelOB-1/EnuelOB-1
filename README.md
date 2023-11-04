@@ -40,7 +40,7 @@ I use SQL, Python, machine learning, PowerBI, Tableau and other tools and techni
 <h1> Tools & technologies i use: <h1/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="70" height="70"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="70" height="70"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg?plain=1" title="MySQL" alt="MySQL" width="70" height="70"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg?plain=1" title="MySQL" alt="MySQL" width="100" height="100"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="100" height="100"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="70" height="70"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="70" height="70"/>&nbsp;
