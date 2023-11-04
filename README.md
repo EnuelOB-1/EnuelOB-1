@@ -23,7 +23,7 @@
 <h1> Hey there, &nbsp;  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  I'm Emmanuel, a Data Analyst from Nigeria.
+  I am a Data Analyst from Nigeria.
  &nbsp;  
   
 # About me
@@ -48,21 +48,4 @@ I use SQL, Python, machine learning, PowerBI, Tableau and other tools and techni
 <h1> Data don't lie! </h1>
 So, let your data tell you everything.
 
-Please, feel free to [reach out](https://url.com)💬, and collaborating with you to Unlock the Secrets in the Unique stroy your data has to tell would be a pleasure.
-
-
-
-<!--
-**EnuelOB-1/EnuelOB-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It would be my pleasure [to work with you](https://url.com)💬, in revealing the secrets hidden in the unique story your data has to tell.
