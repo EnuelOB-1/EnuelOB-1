@@ -48,4 +48,4 @@ I use SQL, Python, machine learning, PowerBI, Tableau and other tools and techni
 <h1> Data don't lie! </h1>
 So, let your data tell you everything.
 
-It would be my pleasure [to work with you](https://url.com)💬, in revealing the secrets hidden in the unique story your data has to tell.
+It would be my pleasure [to work with you](https://url.com), in revealing the secrets hidden in the unique story your data has to tell.
